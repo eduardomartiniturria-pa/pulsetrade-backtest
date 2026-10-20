@@ -1,0 +1,8 @@
+{
+  "name": "pulsetrade-backtest",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "dukascopy-node": "1.45.0" }
+}
